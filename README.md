@@ -1,2 +1,2 @@
 # Maze
-Maze Game
+Mythic Maze
